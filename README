@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1648
+
+Syntax file for the ACPI Syntax Language. Uses the c.vim syntax file as base. Added important keywords for highlighting.
